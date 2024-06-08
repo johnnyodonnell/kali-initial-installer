@@ -5,7 +5,6 @@
 sudo apt update
 sudo apt full-upgrade -y
 
-sudo apt install -y kali-linux-default
 sudo apt install -y kali-linux-headless
 sudo apt install -y kali-linux-wsl
 
